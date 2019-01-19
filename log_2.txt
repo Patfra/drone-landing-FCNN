@@ -1,0 +1,252 @@
+2019-01-16 00:05:17
+Model build successful, starting training
+../data/360_raw/*.png
+Number of images: 5
+2019-01-16 01:05:44.922253: W tensorflow/core/common_runtime/bfc_allocator.cc:211] Allocator (GPU_0_bfc) ran out of memory trying to allocate 3.87GiB. The caller indicates that this is not a failure, but may mean that there could be performance gains if more memory were available.
+2019-01-16 01:05:45.831076: W tensorflow/core/common_runtime/bfc_allocator.cc:211] Allocator (GPU_0_bfc) ran out of memory trying to allocate 1.94GiB. The caller indicates that this is not a failure, but may mean that there could be performance gains if more memory were available.
+2019-01-16 01:05:50.600800: W tensorflow/core/common_runtime/bfc_allocator.cc:211] Allocator (GPU_0_bfc) ran out of memory trying to allocate 1.94GiB. The caller indicates that this is not a failure, but may mean that there could be performance gains if more memory were available.
+2019-01-16 01:05:51.534836: W tensorflow/core/common_runtime/bfc_allocator.cc:211] Allocator (GPU_0_bfc) ran out of memory trying to allocate 3.87GiB. The caller indicates that this is not a failure, but may mean that there could be performance gains if more memory were available.
+2019-01-16 01:05:53.746175: W tensorflow/core/common_runtime/bfc_allocator.cc:211] Allocator (GPU_0_bfc) ran out of memory trying to allocate 3.87GiB. The caller indicates that this is not a failure, but may mean that there could be performance gains if more memory were available.
+2019-01-16 01:05:58.018359: W tensorflow/core/common_runtime/bfc_allocator.cc:211] Allocator (GPU_0_bfc) ran out of memory trying to allocate 3.87GiB. The caller indicates that this is not a failure, but may mean that there could be performance gains if more memory were available.
+2019-01-16 00:05:58
+EPOCH 1 ...
+Loss = 343.701
+
+../data/360_raw/*.png
+Number of images: 5
+2019-01-16 00:06:00
+EPOCH 2 ...
+Loss = 33.900
+
+../data/360_raw/*.png
+Number of images: 5
+2019-01-16 00:06:01
+EPOCH 3 ...
+Loss = 7.982
+
+../data/360_raw/*.png
+Number of images: 5
+2019-01-16 00:06:03
+EPOCH 4 ...
+Loss = 6.243
+
+../data/360_raw/*.png
+Number of images: 5
+2019-01-16 00:06:05
+EPOCH 5 ...
+Loss = 3.362
+
+../data/360_raw/*.png
+Number of images: 5
+2019-01-16 00:06:07
+EPOCH 6 ...
+Loss = 3.672
+
+../data/360_raw/*.png
+Number of images: 5
+2019-01-16 00:06:09
+EPOCH 7 ...
+Loss = 3.330
+
+../data/360_raw/*.png
+Number of images: 5
+2019-01-16 00:06:11
+EPOCH 8 ...
+Loss = 3.365
+
+../data/360_raw/*.png
+Number of images: 5
+2019-01-16 00:06:13
+EPOCH 9 ...
+Loss = 3.247
+
+../data/360_raw/*.png
+Number of images: 5
+2019-01-16 00:06:15
+EPOCH 10 ...
+Loss = 3.314
+
+../data/360_raw/*.png
+Number of images: 5
+2019-01-16 00:06:17
+EPOCH 11 ...
+Loss = 3.252
+
+../data/360_raw/*.png
+Number of images: 5
+2019-01-16 00:06:19
+EPOCH 12 ...
+Loss = 3.191
+
+../data/360_raw/*.png
+Number of images: 5
+2019-01-16 00:06:21
+EPOCH 13 ...
+Loss = 3.172
+
+../data/360_raw/*.png
+Number of images: 5
+2019-01-16 00:06:23
+EPOCH 14 ...
+Loss = 3.155
+
+../data/360_raw/*.png
+Number of images: 5
+2019-01-16 00:06:25
+EPOCH 15 ...
+Loss = 3.142
+
+../data/360_raw/*.png
+Number of images: 5
+2019-01-16 00:06:27
+EPOCH 16 ...
+Loss = 3.128
+
+../data/360_raw/*.png
+Number of images: 5
+2019-01-16 00:06:28
+EPOCH 17 ...
+Loss = 3.115
+
+../data/360_raw/*.png
+Number of images: 5
+2019-01-16 00:06:30
+EPOCH 18 ...
+Loss = 3.104
+
+../data/360_raw/*.png
+Number of images: 5
+2019-01-16 00:06:32
+EPOCH 19 ...
+Loss = 3.093
+
+../data/360_raw/*.png
+Number of images: 5
+2019-01-16 00:06:34
+EPOCH 20 ...
+Loss = 3.082
+
+../data/360_raw/*.png
+Number of images: 5
+2019-01-16 00:06:36
+EPOCH 21 ...
+Loss = 3.072
+
+../data/360_raw/*.png
+Number of images: 5
+2019-01-16 00:06:38
+EPOCH 22 ...
+Loss = 3.062
+
+../data/360_raw/*.png
+Number of images: 5
+2019-01-16 00:06:40
+EPOCH 23 ...
+Loss = 3.052
+
+../data/360_raw/*.png
+Number of images: 5
+2019-01-16 00:06:42
+EPOCH 24 ...
+Loss = 3.044
+
+../data/360_raw/*.png
+Number of images: 5
+2019-01-16 00:06:44
+EPOCH 25 ...
+Loss = 3.036
+
+../data/360_raw/*.png
+Number of images: 5
+2019-01-16 00:06:46
+EPOCH 26 ...
+Loss = 3.028
+
+../data/360_raw/*.png
+Number of images: 5
+2019-01-16 00:06:48
+EPOCH 27 ...
+Loss = 3.022
+
+../data/360_raw/*.png
+Number of images: 5
+2019-01-16 00:06:50
+EPOCH 28 ...
+Loss = 3.020
+
+../data/360_raw/*.png
+Number of images: 5
+2019-01-16 00:06:52
+EPOCH 29 ...
+Loss = 3.017
+
+../data/360_raw/*.png
+Number of images: 5
+2019-01-16 00:06:54
+EPOCH 30 ...
+Loss = 3.016
+
+../data/360_raw/*.png
+Number of images: 5
+2019-01-16 00:06:56
+EPOCH 31 ...
+Loss = 3.006
+
+../data/360_raw/*.png
+Number of images: 5
+2019-01-16 00:06:58
+EPOCH 32 ...
+Loss = 3.000
+
+../data/360_raw/*.png
+Number of images: 5
+2019-01-16 00:07:00
+EPOCH 33 ...
+Loss = 3.000
+
+../data/360_raw/*.png
+Number of images: 5
+2019-01-16 00:07:02
+EPOCH 34 ...
+Loss = 2.978
+
+../data/360_raw/*.png
+Number of images: 5
+2019-01-16 00:07:04
+EPOCH 35 ...
+Loss = 2.966
+
+../data/360_raw/*.png
+Number of images: 5
+2019-01-16 00:07:06
+EPOCH 36 ...
+Loss = 2.956
+
+../data/360_raw/*.png
+Number of images: 5
+2019-01-16 00:07:08
+EPOCH 37 ...
+Loss = 2.951
+
+../data/360_raw/*.png
+Number of images: 5
+2019-01-16 00:07:10
+EPOCH 38 ...
+Loss = 2.946
+
+../data/360_raw/*.png
+Number of images: 5
+2019-01-16 00:07:12
+EPOCH 39 ...
+Loss = 2.941
+
+../data/360_raw/*.png
+Number of images: 5
+2019-01-16 00:07:14
+EPOCH 40 ...
+Loss = 2.937
+
+2019-01-16 00:07:14
+Training Done! :)
+Saving model
+All done!
